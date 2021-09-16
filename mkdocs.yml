@@ -1,9 +1,0 @@
-site_name: Agromart Docs
-site_url: https://example.com/
-nav:
-    - Home: teste.md
-
-theme:
-  name: material
-  logo: assets/logo.png
-  favicon: assets/favicon.png
