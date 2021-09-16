@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagromart=self.webpackChunkagromart||[]).push([[213],{5890:function(a){a.exports=JSON.parse('{"allTagsPath":"/docs/blog/tags","slug":"/docs/blog/tags/hello","name":"hello","count":2,"permalink":"/docs/blog/tags/hello"}')}}]);
