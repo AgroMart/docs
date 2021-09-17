@@ -53,9 +53,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'doc',
+            docId: 'cms/cadastro-usuario',
+            position: 'left',
+            label: 'Manual de Uso CMS',
+          },
+          {
+            href: 'hhttps://github.com/AgroMart',
             label: 'GitHub',
           },
         ],
