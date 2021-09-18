@@ -55,7 +55,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {
             type: 'doc',
-            docId: 'cms/cadastro-usuario',
+            docId: 'cms/cadastro-usuario/cadastro-usuario',
             position: 'left',
             label: 'Manual de Uso CMS',
           },

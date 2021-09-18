@@ -25,7 +25,7 @@ module.exports = {
    */
 
   docs: {
-    "Manual de uso": ["cms/cadastro-usuario"]
+    "Manual de uso": ["cms/cadastro-usuario/cadastro-usuario"]
   }
 
 };
