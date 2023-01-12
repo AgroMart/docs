@@ -24,7 +24,7 @@ Storytelling é uma técnica de criação de narrativas, que também, pode ser u
 
 Álvaro conseguiu passar pela pandemia, porém isso afetou muito sua qualidade de vida, logo ele por acaso entrou em contato com uma amiga que também participava de uma CSA, chamada Dalva, ela lhe informou sobre o aplicativo do Agromart, falando como funcionava e também quais eram seus pontos positivos e suas possíveis dificuldades.
 
-![Alvaro](../../static/img/Storyboard-Agromart-1.jpeg)
+![Alvaro](../../../static/img/Storyboard-Agromart-1.jpeg)
 
 ---
 
@@ -41,7 +41,7 @@ Karina é uma estudante de 27 anos, está cursando a graduação de Direito na U
 
 Karina buscando soluções, acabou encontrando as chamadas CSA, ela ficou preocupada, pois já estava imaginando o processo demorado que deve ser para se filiar a uma CSA, pesquisando ela encontrou a CSA do Álvaro, ela se interessou pois poderia buscar os produtos perto de casa, sem contar que as fotos eram bem chamativas, com várias verduras e frutas que pareciam ótimas. Karina resolveu entrar em contato com Marcus, Marcus é o seu tio que mora próximo e que já participa da CSA, querendo participar da CSA, Marcus atendeu o telefone e a instruiu a baixar o aplicativo do Agromart, ele disse que é só baixar e pedir o código para o responsável que é o Álvaro. Na tarde daquele mesmo dia Karina baixou e com o contato do Álvaro fornecido pelo seu tio, se apresentou e pediu o código para Álvaro, depois de pouco mais de 15 minutos Karina já estava participando da CSA.
 
-![Karina](../../static/img/Storyboard-Agromart-2.jpeg)
+![Karina](../../../static/img/Storyboard-Agromart-2.jpeg)
 
 ---
 
@@ -60,4 +60,4 @@ Mariana em busca de uma solução acaba sendo sugerida por um co-agricultor que 
 
 Mariana conta ao seu marido e ambos correm para a página para já começar a implantar essa nova tecnologia.
 
-![MarceloeMariana](../../static/img/Storyboard-Agromart-3.png)
+![MarceloeMariana](../../../static/img/Storyboard-Agromart-3.png)
