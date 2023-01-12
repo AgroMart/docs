@@ -28,3 +28,31 @@ Tópico | Descrição
 **Exceção**  | Critérios desfavoráveis, caso tenha
 **Episódio** | Descrição da narrativa 
 <br/>
+
+## Nossos cenários
+
+### C1 - Administrador cria a CSA usando o Agromart
+
+|      | Descrição 
+:----- | :--------
+**Objetivo** | Criação da CSA no Agromart
+**Contexto** | Local: em casa<br/>Tempo: pela manhã<br/> Pré-condição: viu uma necessidade de organizar melhor a CSA
+**Ator(es)** | Novo usuário
+**Recurso**  | Computador com acesso a internet<br/> Telefone com internet
+**Restrição** | Conhece um pouco de tecnologia
+**Exceção**  | Falta de sinal de internet
+**Episódio** | USuário baixou o Agromart para organizar melhor sua CSA <br/>  Usuário seguiu o tutorial de instalação e foi bem sucedido <br/> O usuário agora Administrador possui um código específico para sua CSA <br/> O então Administrador convida os co-agricultores a baixar o Agromart e compartilha seu código com eles.
+<br/>
+
+### C2 - Um co-agricutlor quer fazer parte de uma CSA
+
+|      | Descrição 
+:----- | :--------
+**Objetivo** | Participar de uma CSA
+**Contexto** | Local: em uma unidade da CSA<br/>Tempo: pela manhã<br/> Pré-condição: se interessou pela CSA a qual está visitando
+**Ator(es)** | Novo co-agricultor
+**Recurso**  | Telefone com internet
+**Restrição** | Tem amigos que já fazem parte da CSA e já tem o aplicativo
+**Exceção**  | Falta de sinal de internet <br> Agromart não pode ser baixado pelo tipo do celular
+**Episódio** | Co-agricultor baixou o Agromart <br/>  Co-agricultor pediu o código para o responsável pela CSA <br/> Co-agricultor está agora participando da CSA
+<br/>
