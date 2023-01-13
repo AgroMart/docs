@@ -44,7 +44,7 @@ Tópico | Descrição
 **Episódio** | Usuário baixou o Agromart para organizar melhor sua CSA <br/>  Usuário seguiu o tutorial de instalação e foi bem sucedido <br/> O usuário agora Administrador possui um código específico para sua CSA <br/> O então Administrador convida os co-agricultores a baixar o Agromart e compartilha seu código com eles.
 <br/>
 
-### C2 - Um co-agricutlor quer fazer parte de uma CSA
+### C2 - Um co-agricultor quer fazer parte de uma CSA
 
 |      | Descrição 
 :----- | :--------
