@@ -15,7 +15,6 @@ O caso de uso é forma de modelagem que serve para ilustrar a ideia ou do softwa
 
 |Sigla|Descrição|
 |:-:|:-|
-|Versão|0.1|
 |Autor|Pedro Vítor de Salles Cella|
 |Descrição|Uso das funcionalidades do Aplicativo|
 |Ator|Co-agricultor|
@@ -31,7 +30,6 @@ O caso de uso é forma de modelagem que serve para ilustrar a ideia ou do softwa
 
 |Sigla|Descrição|
 |:-:|:-|
-|Versão|0.1|
 |Autor|Pedro Vítor de Salles Cella|
 |Descrição|Utilização das funcionalidades do Strapi|
 |Ator|Administrador da CSA|
