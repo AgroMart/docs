@@ -56,3 +56,68 @@ Tópico | Descrição
 **Exceção**  | Falta de sinal de internet <br/> Agromart não pode ser baixado pelo tipo do celular <br/>
 **Episódio** | Co-agricultor baixou o Agromart <br/>  Co-agricultor pediu o código para o responsável pela CSA <br/> Co-agricultor está agora participando da CSA
 <br/>
+
+### C3 - Co-agricultor comprou uma cesta
+
+|      | Descrição 
+:----- | :--------
+**Objetivo** | Comprar uma cesta
+**Contexto** | Local: em casa<br/>Tempo: pela noite<br/> Pré-condição: Alimentos acabando em casa e precisa reabastecer
+**Ator(es)** | Co-agricultor já participando da CSA
+**Recurso**  | Telefone com internet
+**Restrição** | Já conhece como a CSA funciona <br/>
+**Exceção**  | Falta de sinal de internet<br/>
+**Episódio** | Co-agricultor logou em sua CSA <br/> Acessou a página da loja  <br/> Olhou as cestas <br/> Escolheu a quantidade <br/> Foi direcionado para o carrinho <br/> Finalizou a compra <br/> Estabeleceu o método de pagamento com o responsável pela CSA <br/> Realizou o pagamento
+<br/>
+
+### C4 - Co-agricultor comprou um plano
+
+|      | Descrição 
+:----- | :--------
+**Objetivo** | Comprar uma plano
+**Contexto** | Local: em casa<br/>Tempo: pela noite<br/> Pré-condição: Acabou de se cadastrar e deseja assinar um plano
+**Ator(es)** | Co-agricultor inicio sua participação na CSA recentemente
+**Recurso**  | Telefone com internet
+**Restrição** | Já conhece como a CSA funciona <br/>
+**Exceção**  | Falta de sinal de internet<br/>
+**Episódio** | Co-agricultor logou em sua CSA <br/> Acessou a página da loja  <br/> Olhou os planos <br/> Escolheu o plano que deseja assinar <br/> Foi direcionado para o carrinho <br/> Finalizou a compra <br/> Estabeleceu o método de pagamento com o responsável pela CSA <br/> Realizou o pagamento
+<br/>
+
+### C5 - Co-agricultor comprou produtos
+
+|      | Descrição 
+:----- | :--------
+**Objetivo** | Comprar produtos
+**Contexto** | Local: em casa<br/>Tempo: pela noite<br/> Pré-condição: Frutas, verduras e legumes estão acabando em casa e precisam serem repostos
+**Ator(es)** | Co-agricultor já participando da CSA
+**Recurso**  | Telefone com internet
+**Restrição** | Já conhece como a CSA funciona <br/>
+**Exceção**  | Falta de sinal de internet<br/>
+**Episódio** | Co-agricultor logou em sua CSA <br/> Acessou a página da loja  <br/> Olhou os produtos <br/> Escolheu a quantidade <br/> Foi direcionado para o carrinho <br/> Finalizou a compra <br/> Estabeleceu o método de pagamento com o responsável pela CSA <br/> Realizou o pagamento
+<br/>
+
+### C6 - Co-agricultor deseja alterar seu endereço
+
+|      | Descrição 
+:----- | :--------
+**Objetivo** | Mudar endereço
+**Contexto** | Local: em casa<br/>Tempo: pela manhã<br/> Pré-condição: Já fazer parte da CSA
+**Ator(es)** | Co-agricultor já participando da CSA
+**Recurso**  | Telefone com internet
+**Restrição** | Já conhece como a CSA funcion <br/>
+**Exceção**  | Falta de sinal de internet<br/> Se mudou <br/>
+**Episódio** | Co-agricultor logou em sua CSA <br/> Acessou a página Meus Endereços  <br/> Realizou a edição do endereço
+<br/>
+
+### C7 - Administrador adiciona co-agricultor na assinatura
+
+|      | Descrição 
+:----- | :--------
+**Objetivo** | Adicionar co-agricultor ao plano de assinatura
+**Contexto** | Local: em casa<br/>Tempo: pela manhã<br/> Pré-condição: Ser Administrador
+**Ator(es)** | Responsável pela CSA
+**Recurso**  | Computador com internet <br/> Telefone com internet
+**Restrição** | Já conhece como a CSA funciona <br/>
+**Exceção**  | Falta de sinal de internet <br/>
+**Episódio** | Agricultor logou na conta do Strapi <br/> Acessou a página Assinaturas  <br/> Adicionou o co-agricultor ao plano de assinatura
+<br/>

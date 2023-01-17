@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A introspecção é um técnica de elicitar requisitos, no qual, o engenheiro se imagina utilizando o software no lugar do co-agricultor para identificar quais as necessidades que o projeto deve possuir.
+A introspecção é um técnica de elicitar requisitos, no qual, o engenheiro se imagina utilizando o software no lugar do usuário para identificar quais as necessidades que o projeto deve possuir.
 
 ## Requisitos
 
