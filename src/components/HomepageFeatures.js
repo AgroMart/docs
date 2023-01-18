@@ -1,7 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
-
+import logo from '../../static/img/logo.png'
 const FeatureList = [
   {
     title: 'Easy to Use',
@@ -54,7 +54,7 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div style={{"justifyContent":"center"}} className="row">
-          <img src="../static/img/logo.png"></img>
+          <img src={logo}></img>
         </div>
       </div>
     </section>
