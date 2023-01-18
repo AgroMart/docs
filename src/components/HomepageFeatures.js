@@ -53,10 +53,8 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+        <div style={{"justifyContent":"center"}} className="row">
+          <img src="../static/img/logo.png"></img>
         </div>
       </div>
     </section>
